@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const authRoutes = require('./routes/auth');
 const cors = require('cors');
 require('dotenv').config();
-require('./models'); 
+require('./models') 
 
 const addProducts = require('./routes/addProducts');
 const productRoutes = require('./routes/productRoutes');
