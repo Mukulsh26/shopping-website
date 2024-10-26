@@ -38,13 +38,12 @@ Follow these instructions to set up the project locally.
 
 Prerequisites
 Ensure you have the following installed:
-
 Node.js
 MySQL Server
 npm (Node Package Manager)
 Installation
-Clone the Repository
 
+Clone the Repository
 bash
 Copy code
 git clone :- (https://github.com/Mukulsh26/shopping-website.git)
@@ -52,19 +51,18 @@ cd shopping-site
 Install Dependencies
 
 For frontend:
-
 bash
 Copy code
-cd client  
-npm install
+cd frotend 
+npm install and for run npm start
+
 For backend:
-
 bash
 Copy code
-cd server  
-npm install
-Set up MySQL Database
+cd backend  
+npm install and for run node server.js
 
+Set up MySQL Database
 Create a new MySQL database (e.g., project_db).
 Import the provided SQL file (if any) to set up the initial tables:
 bash
