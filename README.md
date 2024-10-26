@@ -48,7 +48,7 @@ Clone the Repository
 bash
 Copy code
 git clone :- (https://github.com/Mukulsh26/shopping-website.git)
-cd your-repo-name
+cd shopping-site
 Install Dependencies
 
 For frontend:
