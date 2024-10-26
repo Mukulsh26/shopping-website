@@ -47,7 +47,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git
+git clone :- (https://github.com/Mukulsh26/shopping-website.git)
 cd your-repo-name
 Install Dependencies
 
